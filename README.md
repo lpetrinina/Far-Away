@@ -12,5 +12,4 @@ Far Away is app which hepls you to packing your bagage fast and easy.
   - Remove all items from list
   - Calculating the packing percentage of the items
  
-
-
+The project is deployed on Netlify and can see it here --> https://far-away-luiza.netlify.app/
